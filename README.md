@@ -18,8 +18,11 @@ A simple and responsive HTML Student Registration Form styled with CSS. The form
 ## Folder
 ├── index.html    
 └── README.md     
+
+
 ## Screenshot
 
-![Form Screenshot](screenshot.png)
+![Form Screenshot](Screenshot%202025-08-09%20212212.png)
+
 
 
